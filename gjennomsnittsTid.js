@@ -234,5 +234,5 @@ function launchConfetti() {
   setTimeout(() => {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     particles = [];
-  }, 20000);
+  }, 30000);
 }
